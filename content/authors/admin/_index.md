@@ -72,4 +72,4 @@ highlight_name: true
 
 Wang Yu is a Master Candidate of Geochemistry at the Nanjing University(School of Earth Sciences and Engineering). His research interests include Emeishan Large Lgenous Provine(ELIP) and end-Guadalupian Mass Extinction(EGME), Organic Geochemistry and Isotope Geochemistry. He is current working on deciphering the relationship between Wangpo bed(a clay bed formed around the time for ELIP eruption) and ELIP and its implication to the EGME with information from mineral content, major-trace element content, zircon U-Pb dating. During his study at NJU, he has developed a great interest in organic geochemistry and isotope geochemistry.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
