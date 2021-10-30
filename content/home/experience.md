@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Paleo-Environment Evolution During End-Guadalupian in South China
+    company: Nanjing University
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: NanJing City, Jiangsu Province, China
+    date_start: '2020-10-15'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Sampling
+        * Experiment
+        * Analysis and report Writing
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Natural Gas Source Analysis of Permian Volcanic Rock Reservoir of Sichuan Basin
+    company: Nanjing University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: NanJing City, Jiangsu Province, China
+    date_start: '2019-01-01'
+    date_end: '2020-10-01'
+    description: Master research project supervised by Prof Jian Cao. I studied the lipid biomarker character of extracts from Permian volcanic rock natural gas reservoir and potential source rocks with GC-FID and GC-MS. My result together with other evidence from my colleagues supported the potential origin of this gas accumulation.
 
 design:
   columns: '2'
