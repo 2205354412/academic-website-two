@@ -17,5 +17,5 @@ content:
 design:
   view: 3
   background:
-    image: icon.png
+    image: ""
 ---
